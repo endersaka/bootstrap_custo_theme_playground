@@ -21,6 +21,7 @@
   "dependencies": {
     "bootstrap-beta": "^4.0.0-beta",
     "jquery": "^3.2.1",
+    "lory.js": "^2.3.4",
     "popper.js": "^1.12.9"
   }
 }
